@@ -154,9 +154,7 @@
 													    <div class="progress-bar bg-danger" style="color:red; width:${(challenge.nowBalanceByType/challenge.targetAmount)*100}%">${Math.round((challenge.nowBalanceByType/challenge.targetAmount)*100)}%</div>
 													  </div>
 													 
-							                    	   <span style="color:red; font-weight:bold">
-							                    	       失敗した挑戦です。<br> 来月にまた挑戦してください！</span>
-							                    	
+							                    	   <span style="color:red; font-weight:bold">失敗した挑戦です。<br> 来月にまた挑戦してください！</span>
 						                         </p>
 						                        
 						                        </c:if>
