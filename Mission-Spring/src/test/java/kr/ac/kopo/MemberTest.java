@@ -22,7 +22,7 @@ public class MemberTest {
 	
 
 	@Test
-	public void ë¡œê·¸ì¸í…ŒìŠ¤íŠ¸() throws Exception{
+	public void ·Î±×ÀÎÅ×½ºÆ®() throws Exception{
 		MemberVO member = new MemberVO();
 		member.setId("user1");
 		member.setPassword("1234");

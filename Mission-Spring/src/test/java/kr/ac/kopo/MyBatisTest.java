@@ -39,7 +39,7 @@ public class MyBatisTest {
 	@Test
 	public void ds테스트() throws Exception{
 		
-		 assertNotNull(ds); // 널이 아니면 성공.
+		 assertNotNull(ds); // �꼸�씠 �븘�땲硫� �꽦怨�.
 	}
 	
 	@Ignore

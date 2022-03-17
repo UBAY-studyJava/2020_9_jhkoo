@@ -19,7 +19,7 @@ public class ReplyTest {
 	private SqlSessionTemplate sqlSession;
 	
 	@Test
-	public void ì „ì²´ëŒ“ê¸€ì¡°íšŒ() throws Exception {
+	public void ÀüÃ¼´ñ±ÛÁ¶È¸() throws Exception {
 		List<ReplyVO> list = sqlSession.selectList("reply.dao.ReplyDAO.selectAll", 7);
 		
 		for(ReplyVO vo:list) {
