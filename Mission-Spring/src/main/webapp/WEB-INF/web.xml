@@ -30,7 +30,7 @@
   		<param-name>encoding</param-name>
   		<param-value>UTF-8</param-value>
   	</init-param>
-  	<load-on-stratup>1</load-on-stratup>
+  	
   </filter>
 
   <filter-mapping>
